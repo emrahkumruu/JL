@@ -1,0 +1,62 @@
+[
+    {
+        "jobId": "1",
+        "positionName": "Gerber Operatörü",
+        "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "istanbul",
+        "townName": "Çengelköy Mahallesi"
+    },
+    {
+        "jobId": "2",
+        "positionName": "Usta Başı",
+        "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "istanbul",
+        "townName": "Çengelköy Mahallesi"
+    },
+    {
+        "jobId": "3",
+        "positionName": "Kuruyeci",
+        "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "istanbul",
+        "townName": "Çengelköy Mahallesi"
+    },
+    {
+        "jobId": "4",
+        "positionName": "Garson",
+        "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "istanbul",
+        "townName": "Çengelköy Mahallesi"
+    },
+    {
+        "jobId": "5",
+        "positionName": "Vale",
+        "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "distance": "8,53 km yakınında",
+        "latitude": 41.050968170166023,
+        "longitude": 29.062856674194339,
+        "cityName": "istanbul",
+        "townName": "Çengelköy Mahallesi"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "jobId": "1",
+        "positionName": "Gerber Operatörü",
+        "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "İstanbul",
+        "townName": "Ümraniye",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
+        "latitude": 41.0266502,
+        "longitude": 29.1157803,
+        "description": "syovsvyosvyoyvsoby",
+        "status": 1,
+        "contactPhone": {
+            "countryCallingCode": "+90",
+            "areaCode": "879",
+            "number": "9797979"
+        }
+    },
+    {
+        "jobId": "2",
+        "positionName": "Usta Başı",
+        "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "İstanbul",
+        "townName": "Ümraniye",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
+        "latitude": 41.0266502,
+        "longitude": 29.1157803,
+        "description": "syovsvyosvyoyvsoby",
+        "status": 1,
+        "contactPhone": {
+            "countryCallingCode": "+90",
+            "areaCode": "879",
+            "number": "9797979"
+        }
+    },
+    {
+        "jobId": "3",
+        "positionName": "Kuruyeci",
+        "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "İstanbul",
+        "townName": "Ümraniye",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
+        "latitude": 41.0266502,
+        "longitude": 29.1157803,
+        "description": "syovsvyosvyoyvsoby",
+        "status": 1,
+        "contactPhone": {
+            "countryCallingCode": "+90",
+            "areaCode": "879",
+            "number": "9797979"
+        }
+    },
+    {
+        "jobId": "4",
+        "positionName": "Garson",
+        "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "İstanbul",
+        "townName": "Ümraniye",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
+        "latitude": 41.0266502,
+        "longitude": 29.1157803,
+        "description": "syovsvyosvyoyvsoby",
+        "status": 1,
+        "contactPhone": {
+            "countryCallingCode": "+90",
+            "areaCode": "879",
+            "number": "9797979"
+        }
+    },
+    {
+        "jobId": "5",
+        "positionName": "Vale",
+        "companyName": "Testoğlu Lahmacun Pide Ve Kebap",
+        "durationDay": 0,
+        "durationDayText": "Taze çıktı!",
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "cityName": "İstanbul",
+        "townName": "Ümraniye",
+        "address": "Saray Mahallesi Site Yolu Sokak No:7 34768 Ümraniye/İstanbul Turkey",
+        "postalCode": 34768,
+        "hasLatitude": true,
+        "hasLongitude": true,
+        "latitude": 41.0266502,
+        "longitude": 29.1157803,
+        "description": "syovsvyosvyoyvsoby",
+        "status": 1,
+        "contactPhone": {
+            "countryCallingCode": "+90",
+            "areaCode": "879",
+            "number": "9797979"
+        }
+    }
+]
